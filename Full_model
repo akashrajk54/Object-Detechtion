@@ -1,5 +1,5 @@
-#This script shows the full training and prediction for a pixel-based classifier: 
-#we create a mask, train logistic regression on one-pixel patches, make prediction for all pixels, create and smooth polygons from pixels.
+//This script shows the full training and prediction for a pixel-based classifier: 
+//we create a mask, train logistic regression on one-pixel patches, make prediction for all pixels, create and smooth polygons from pixels.
 
 from collections import defaultdict
 import csv
